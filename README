@@ -1,1 +1,4 @@
-Hola Mundo 
+Hola Mundo! 
+El siguiente Modulo de Haskell contiene una funcion llamada "filtrar", 
+la cual toma de una lista de 1000 numeros multiplos de 3 solo los que
+son pares y los muestra en pantalla.
